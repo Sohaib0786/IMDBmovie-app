@@ -122,7 +122,7 @@ export default function Home() {
               {[
                 { icon: "🎬", title: "Movie Details", desc: "Poster, cast, director, runtime & more" },
                 { icon: "⭐", title: "Ratings Data", desc: "IMDb, Rotten Tomatoes, Metacritic scores" },
-                { icon: "🤖", title: "AI Sentiment", desc: "Claude AI-powered audience analysis" },
+                { icon: "🤖", title: "AI Sentiment", desc: " AI-powered audience analysis" },
               ].map((f) => (
                 <div
                   key={f.title}
