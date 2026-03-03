@@ -139,7 +139,7 @@ export default function Home() {
 
         {/* Footer */}
         <footer className="border-t border-white/5 py-6 text-center text-sm text-gray-600">
-          <p>Built with Next.js · OMDB API · Claude AI</p>
+          <p>Built with Next.js · OMDB API · Google Gemini API</p>
         </footer>
       </div>
     </div>
